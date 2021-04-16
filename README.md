@@ -1,4 +1,7 @@
-### Hi there 👋
+## cat ~/.profile
+I am a Software Engineer in Seoul, South Korea.
+
+TBA.
 
 <!--
 **b1u3b3rr7/b1u3b3rr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
