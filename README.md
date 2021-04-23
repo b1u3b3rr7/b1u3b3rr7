@@ -1,5 +1,5 @@
 ## cat ~/.profile
-I am a Software Engineer in Seoul, South Korea.
+I am a Software Engineer specialized in React & Node.js.
 
 TBA.
 
