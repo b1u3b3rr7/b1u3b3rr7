@@ -1,7 +1,7 @@
 ## cat ~/.profile
-I am a Software Engineer specialized in React & Node.js.
+Software Engineer, specialized in React & Node.js.
 
-- 🌱 I’m currently learning architecture
+- golang, spring, etc.
 <!--
 **b1u3b3rr7/b1u3b3rr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
