@@ -1,7 +1,7 @@
 ## cat ~/.profile
 Software Engineer, specialized in React & Node.js.
 
-- golang, spring, etc.
+- TBC
 <!--
 **b1u3b3rr7/b1u3b3rr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
