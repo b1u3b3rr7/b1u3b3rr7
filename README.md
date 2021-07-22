@@ -1,5 +1,14 @@
-## cat ~/.profile
+## $ whoami
 Software Engineer, specialized in React & Node.js.
+
+
+## Front-End
+- React
+
+## Back-End
+- Golang
+- Spring
+- Node.js
 
 - TBC
 <!--
